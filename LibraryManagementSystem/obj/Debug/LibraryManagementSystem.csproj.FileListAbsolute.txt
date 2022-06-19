@@ -1,0 +1,17 @@
+D:\Projects\Library Management System\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\Projects\Library Management System\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\Projects\Library Management System\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\Projects\Library Management System\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+D:\Projects\Library Management System\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Library Management System\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form1.resources
+D:\Projects\Library Management System\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+D:\Projects\Library Management System\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+D:\Projects\Library Management System\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Projects\Library Management System\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\Projects\Library Management System\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\Projects\Library Management System\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBook.resources
+D:\Projects\Library Management System\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewBooks.resources
+D:\Projects\Library Management System\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UpdateBooks.resources
+D:\Projects\Library Management System\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.DeleteBook.resources
+D:\Projects\Library Management System\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.ResolveComReference.cache
+D:\Projects\Library Management System\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Login.resources
